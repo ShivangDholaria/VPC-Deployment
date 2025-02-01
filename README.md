@@ -35,35 +35,45 @@ After Terraform completes the provisioning process, you can verify the resources
 You will this after the resources are created.
 
 - **Server Instances**
+
 ![Instance created](./img/servers.png)
 
 - **VPC**
+
 ![VPC created](./img/vpc.png)
 
 - **Load balancer**
+
 ![Load Balancer created](./img/lb.png)
 
 - **Security group**
+
 ![Security group created](./img/sg.png)
 
 - **Target group**
+
 ![Target groups created](./img/tg.png)
 
 - **Subnets**
+
 ![Subnets created](./img/subnets.png)
 
 - **Route Table**
+
 ![Route Table created](./img/rt.png)
 
 - **Internet Gateway**
+
 ![Internet Gateway created](./img/igw.png)
 
 When you access the server via web browser, you will see this.
 
 - **Server 1**
+
 ![Server 1 page](./img/s1.png)
 
 - **Internet Gateway**
+
 ![Server 2 page](./img/s2.png)
 
 ### Destroy Resources
