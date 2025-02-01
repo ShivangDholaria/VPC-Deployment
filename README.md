@@ -2,6 +2,8 @@
 
 A simple deployment of a client-server infrastucture via terraform with VPC, subnets, Load Balancer, Internet gateway, Routing table, target group, and servers. 
 
+DNS for load balancer will also be outputted to access the server through a single URL.
+
 Best praticies, where ever applicable, are implemented.
 
 ## Steps to deploy
